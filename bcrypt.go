@@ -1,5 +1,5 @@
 // encrypt pw, store encypted value and not the actual the pw
-// compare pw recieved enrypted with encrypted pw stored to see if it matches
+// compare pw recieved encrypted with encrypted pw stored to see if it matches
 // server-side encryption
 // bcrypt or scrypt is common
 
